@@ -1,0 +1,20 @@
+{
+  "name": "esm-3.0.19-breaking-change",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/will123195/esm-3.0.19-breaking-change.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/will123195/esm-3.0.19-breaking-change/issues"
+  },
+  "homepage": "https://github.com/will123195/esm-3.0.19-breaking-change#readme",
+  "dependencies": {
+    "esm": "^3.0.25"
+  }
+}

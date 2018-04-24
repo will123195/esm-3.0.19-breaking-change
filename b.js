@@ -1,0 +1,1 @@
+console.log('b.js has been loaded');
